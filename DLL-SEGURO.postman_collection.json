@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "face1f77-972f-4f57-a048-2dcf6ddb4eb1",
+		"name": "DLL-SEGURO",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET TOKEN",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "GET CLIENTES",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
